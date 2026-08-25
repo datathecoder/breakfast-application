@@ -1,0 +1,14 @@
+*.cpp linguist-generated
+*.cc linguist-generated
+*.cxx linguist-generated
+*.h linguist-generated
+*.hpp linguist-generated
+
+CMakeLists.txt linguist-generated
+*.cmake linguist-generated
+
+*.html linguist-generated
+*.htm linguist-generated
+
+*.c linguist-generated
+*.swift linguist-generated
