@@ -1,14 +1,5 @@
-*.cpp linguist-generated
-*.cc linguist-generated
-*.cxx linguist-generated
-*.h linguist-generated
-*.hpp linguist-generated
+# Exclude everything from GitHub language statistics
+* linguist-detectable=false
 
-CMakeLists.txt linguist-generated
-*.cmake linguist-generated
-
-*.html linguist-generated
-*.htm linguist-generated
-
-*.c linguist-generated
-*.swift linguist-generated
+# Include Dart
+*.dart linguist-detectable=true
